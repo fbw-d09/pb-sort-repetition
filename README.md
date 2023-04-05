@@ -46,13 +46,13 @@ function compareFunction(a, b) {
 The sorted array should start with the shortest name.
 
 ```javascript
-const fourZeroFiveFound = ["Melanie" , "Hansi", "Ruben", "Zoe", "Mila", "Mohammad"]
+const fourZeroFiveFound = ["Melanie" , "Hansi", "Ruben", "Zoe", "Dirk", "Rick"]
 
 after sort the array should look like that:
 
 console.log(fourZeroFiveFound)
 
-Output =>  ["Melanie" , "Hansi", "Ruben", "Zoe", "Mila", "Mohammad"]
+Output =>  [ 'Zoe', 'Dirk', 'Rick', 'Hansi', 'Ruben', 'Melanie' ]
 
 
 ```
